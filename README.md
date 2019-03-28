@@ -2,6 +2,7 @@
 
 
 ### mac 安装软件包 brew
+- https://brew.sh/index_zh-cn
 - brew 安装
 
 ```aidl
